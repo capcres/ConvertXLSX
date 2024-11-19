@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ConvertXLSX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA110938-AFD7-4243-A2D6-D08CA51DAFC2}|ConvertXLSX\\ConvertXLSX.csproj|c:\\projects\\convertxlsx\\convertxlsx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA110938-AFD7-4243-A2D6-D08CA51DAFC2}|ConvertXLSX\\ConvertXLSX.csproj|solutionrelative:convertxlsx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConvertXLSX||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertXLSX",
+              "DocumentMoniker": "C:\\Projects\\ConvertXLSX\\ConvertXLSX\\ConvertXLSX.csproj",
+              "RelativeDocumentMoniker": "ConvertXLSX\\ConvertXLSX.csproj",
+              "ToolTip": "C:\\Projects\\ConvertXLSX\\ConvertXLSX\\ConvertXLSX.csproj",
+              "RelativeToolTip": "ConvertXLSX\\ConvertXLSX.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T22:42:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ConvertXLSX\\ConvertXLSX\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertXLSX\\Program.cs",
+              "ToolTip": "C:\\Projects\\ConvertXLSX\\ConvertXLSX\\Program.cs",
+              "RelativeToolTip": "ConvertXLSX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-29T02:00:15.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

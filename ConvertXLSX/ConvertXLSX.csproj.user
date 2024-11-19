@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>게시\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>ko-KR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>MP001MP0 C:\MProjects1\MP001\Doc\Table\Table\ SmithyAttackUpgrade C:\MProjects1\MP001\Assets\Resources\Table\ C:\MProjects1\MP001\Doc\Table\TextTable\</StartArguments>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>sr01sr02 C:\NekoProjects\SR\Table\ Item none none C:\NekoProjects\SR\Table\</StartArguments>
+    <StartWorkingDirectory>C:\Projects\ConvertXLSX\ConvertXLSX\bin\Release\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartArguments>sr01sr02 C:\NekoProjects\SR\Table\ Item none none C:\NekoProjects\SR\Table\</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <StartWorkingDirectory>C:\Projects\ConvertXLSX\ConvertXLSX\bin\Release\</StartWorkingDirectory>
+    <StartArguments>sr01sr02 C:\NekoProjects\SR\Table\ Item none none C:\NekoProjects\SR\Table\</StartArguments>
+  </PropertyGroup>
+</Project>

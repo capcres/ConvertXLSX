@@ -1,0 +1,7 @@
+C:\Projects\ConvertXLSX\ConvertXLSX\bin\x64\Release\ConvertXLSX.exe.config
+C:\Projects\ConvertXLSX\ConvertXLSX\bin\x64\Release\ConvertXLSX.exe
+C:\Projects\ConvertXLSX\ConvertXLSX\bin\x64\Release\ConvertXLSX.pdb
+C:\Projects\ConvertXLSX\ConvertXLSX\obj\x64\Release\ConvertXLSX.csproj.ResolveComReference.cache
+C:\Projects\ConvertXLSX\ConvertXLSX\obj\x64\Release\ConvertXLSX.csproj.CoreCompileInputs.cache
+C:\Projects\ConvertXLSX\ConvertXLSX\obj\x64\Release\ConvertXLSX.exe
+C:\Projects\ConvertXLSX\ConvertXLSX\obj\x64\Release\ConvertXLSX.pdb

@@ -1,0 +1,4 @@
+0
+code	name	navfilter_code	job	gender	create_pos_x	create_pos_y	create_pos_z	create_pos_range	mesh_anim_class	skeletal_mesh	head_mesh	descript
+1	Male	1	1	1	90.3	67.1	-111	3	/Script/Engine.AnimBlueprint'/Game/ThirdPerson/Blueprints/ABP_M_CCPlayer.ABP_M_CCPlayer_C'	/Script/Engine.SkeletalMesh'/Game/Characters/Models/Base/Mesh/Male/M00_Full_Body.M00_Full_Body'	/Script/Engine.SkeletalMesh'/Game/Characters/Models/Base/Mesh/Male/M00_Head.M00_Head'	Male
+2	Female	1	1	2	90.3	67.1	-111	3	/Script/Engine.AnimBlueprint'/Game/ThirdPerson/Blueprints/ABP_F_CCPlayer.ABP_F_CCPlayer_C'	/Script/Engine.SkeletalMesh'/Game/Characters/Models/Base/Mesh/Female/F00_Full_Body.F00_Full_Body'	/Script/Engine.SkeletalMesh'/Game/Characters/Models/Base/Mesh/Female/F00_Head.F00_Head'	Female
